@@ -26,4 +26,7 @@ ii) source env/scripts\activate
 4. Then use `python3 main.py` to run the script.
 5. Once you run the `main.py` file, it will automatically create a json file with the name of the user given location in the current directory.
 
+![weather_api_usage](https://github.com/Krish123-lang/Weather_API_Usage/assets/56486342/6a4f8e99-cb3f-43e0-90e8-9807ba9deb53)
+
+
 Thank You. 🙏
